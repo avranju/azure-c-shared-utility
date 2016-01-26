@@ -224,6 +224,7 @@ set(source_c_files
 ./src/hmac.c
 ./src/hmacsha256.c
 ./src/xio.c
+./src/pio.c
 ./src/list.c
 ./src/map.c
 ./src/sastoken.c
@@ -299,6 +300,7 @@ set(source_h_files
 ./inc/tickcounter.h
 ./inc/threadapi.h
 ./inc/xio.h
+./inc/pio.h
 ./inc/urlencode.h
 ./inc/vector.h
 ./inc/xlogging.h
